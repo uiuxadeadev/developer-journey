@@ -1,0 +1,571 @@
+{
+  "collected_at": "2025-08-02T20:39:22.528Z",
+  "organizations": {
+    "DevBusinessHub": {
+      "name": "DevBusinessHub",
+      "repositories": {
+        "business-management": {
+          "name": "business-management",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:22.534Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": false,
+            "data_source": "github_api",
+            "error": "Not Found - https://docs.github.com/rest/repos/repos#get-a-repository"
+          }
+        },
+        "automation-tools": {
+          "name": "automation-tools",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:22.977Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": false,
+            "data_source": "github_api",
+            "error": "Not Found - https://docs.github.com/rest/repos/repos#get-a-repository"
+          }
+        },
+        "Test": {
+          "name": "Test",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:23.262Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": false,
+            "data_source": "github_api",
+            "error": "Not Found - https://docs.github.com/rest"
+          }
+        },
+        "client-investigation": {
+          "name": "client-investigation",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:23.534Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": false,
+            "data_source": "github_api",
+            "error": "Not Found - https://docs.github.com/rest/repos/repos#get-a-repository"
+          }
+        },
+        "client-language-platform": {
+          "name": "client-language-platform",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:23.817Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": false,
+            "data_source": "github_api",
+            "error": "Not Found - https://docs.github.com/rest/repos/repos#get-a-repository"
+          }
+        }
+      },
+      "totals": {
+        "total_lines": 0,
+        "total_repositories": 5,
+        "accessible_repositories": 0,
+        "languages": [],
+        "primary_language": "Unknown",
+        "language_diversity": 0
+      },
+      "metadata": {
+        "total_repositories": 5,
+        "last_updated": "2025-08-02T20:39:22.534Z"
+      }
+    },
+    "DevPersonalHub": {
+      "name": "DevPersonalHub",
+      "repositories": {
+        "external-learning-platforms": {
+          "name": "external-learning-platforms",
+          "languages": {
+            "Python": 241042524,
+            "HTML": 2534291,
+            "JavaScript": 2138484,
+            "CSS": 1658264,
+            "C": 601964,
+            "PowerShell": 135495,
+            "Shell": 70457,
+            "PHP": 70449,
+            "TypeScript": 29356,
+            "SCSS": 4934,
+            "Hack": 834,
+            "Dockerfile": 498
+          },
+          "metadata": {
+            "total_lines": 248287550,
+            "primary_language": "Python",
+            "last_updated": "2025-08-02T20:39:24.096Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        },
+        "learning-projects": {
+          "name": "learning-projects",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:24.512Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        },
+        "portfolio-website": {
+          "name": "portfolio-website",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:24.942Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        },
+        "technical-showcase": {
+          "name": "technical-showcase",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:25.370Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        }
+      },
+      "totals": {
+        "total_lines": 248287550,
+        "total_repositories": 4,
+        "accessible_repositories": 4,
+        "languages": [
+          {
+            "language": "Python",
+            "lines": 241042524,
+            "percentage": "97.1",
+            "rank": 1
+          },
+          {
+            "language": "HTML",
+            "lines": 2534291,
+            "percentage": "1.0",
+            "rank": 2
+          },
+          {
+            "language": "JavaScript",
+            "lines": 2138484,
+            "percentage": "0.9",
+            "rank": 3
+          },
+          {
+            "language": "CSS",
+            "lines": 1658264,
+            "percentage": "0.7",
+            "rank": 4
+          },
+          {
+            "language": "C",
+            "lines": 601964,
+            "percentage": "0.2",
+            "rank": 5
+          },
+          {
+            "language": "PowerShell",
+            "lines": 135495,
+            "percentage": "0.1",
+            "rank": 6
+          },
+          {
+            "language": "Shell",
+            "lines": 70457,
+            "percentage": "0.0",
+            "rank": 7
+          },
+          {
+            "language": "PHP",
+            "lines": 70449,
+            "percentage": "0.0",
+            "rank": 8
+          },
+          {
+            "language": "TypeScript",
+            "lines": 29356,
+            "percentage": "0.0",
+            "rank": 9
+          },
+          {
+            "language": "SCSS",
+            "lines": 4934,
+            "percentage": "0.0",
+            "rank": 10
+          },
+          {
+            "language": "Hack",
+            "lines": 834,
+            "percentage": "0.0",
+            "rank": 11
+          },
+          {
+            "language": "Dockerfile",
+            "lines": 498,
+            "percentage": "0.0",
+            "rank": 12
+          }
+        ],
+        "primary_language": "Python",
+        "language_diversity": 12
+      },
+      "metadata": {
+        "total_repositories": 4,
+        "last_updated": "2025-08-02T20:39:24.096Z"
+      }
+    },
+    "DevAcademicHub": {
+      "name": "DevAcademicHub",
+      "repositories": {
+        "academic-portfolio": {
+          "name": "academic-portfolio",
+          "languages": {
+            "Python": 19945,
+            "Shell": 9760
+          },
+          "metadata": {
+            "total_lines": 29705,
+            "primary_language": "Python",
+            "last_updated": "2025-08-02T20:39:25.755Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        },
+        "collaborative-projects": {
+          "name": "collaborative-projects",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:26.201Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        },
+        "Test2": {
+          "name": "Test2",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:26.626Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": false,
+            "data_source": "github_api",
+            "error": "Not Found - https://docs.github.com/rest/repos/repos#get-a-repository"
+          }
+        }
+      },
+      "totals": {
+        "total_lines": 29705,
+        "total_repositories": 3,
+        "accessible_repositories": 2,
+        "languages": [
+          {
+            "language": "Python",
+            "lines": 19945,
+            "percentage": "67.1",
+            "rank": 1
+          },
+          {
+            "language": "Shell",
+            "lines": 9760,
+            "percentage": "32.9",
+            "rank": 2
+          }
+        ],
+        "primary_language": "Python",
+        "language_diversity": 2
+      },
+      "metadata": {
+        "total_repositories": 3,
+        "last_updated": "2025-08-02T20:39:25.755Z"
+      }
+    },
+    "DevEcosystem": {
+      "name": "DevEcosystem",
+      "repositories": {
+        "ecosystem-central-command": {
+          "name": "ecosystem-central-command",
+          "languages": {
+            "JavaScript": 265473,
+            "Shell": 50785
+          },
+          "metadata": {
+            "total_lines": 316258,
+            "primary_language": "JavaScript",
+            "last_updated": "2025-08-02T20:39:26.884Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        },
+        "ecosystem-automation-tools": {
+          "name": "ecosystem-automation-tools",
+          "languages": {},
+          "metadata": {
+            "total_lines": 0,
+            "primary_language": "",
+            "last_updated": "2025-08-02T20:39:27.351Z",
+            "stars": 0,
+            "forks": 0,
+            "accessible": true,
+            "data_source": "github_api"
+          }
+        }
+      },
+      "totals": {
+        "total_lines": 316258,
+        "total_repositories": 2,
+        "accessible_repositories": 2,
+        "languages": [
+          {
+            "language": "JavaScript",
+            "lines": 265473,
+            "percentage": "83.9",
+            "rank": 1
+          },
+          {
+            "language": "Shell",
+            "lines": 50785,
+            "percentage": "16.1",
+            "rank": 2
+          }
+        ],
+        "primary_language": "JavaScript",
+        "language_diversity": 2
+      },
+      "metadata": {
+        "total_repositories": 2,
+        "last_updated": "2025-08-02T20:39:26.884Z"
+      }
+    }
+  },
+  "ecosystem_totals": {
+    "total_lines": 248633513,
+    "total_repositories": 8,
+    "total_organizations": 4,
+    "languages": [
+      {
+        "language": "Python",
+        "lines": 241062469,
+        "percentage": "97.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 241042524,
+            "percentage": "97.1"
+          },
+          {
+            "name": "DevAcademicHub",
+            "lines": 19945,
+            "percentage": "67.1"
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "language": "HTML",
+        "lines": 2534291,
+        "percentage": "1.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 2534291,
+            "percentage": "1.0"
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "language": "JavaScript",
+        "lines": 2403957,
+        "percentage": "1.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 2138484,
+            "percentage": "0.9"
+          },
+          {
+            "name": "DevEcosystem",
+            "lines": 265473,
+            "percentage": "83.9"
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "language": "CSS",
+        "lines": 1658264,
+        "percentage": "0.7",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 1658264,
+            "percentage": "0.7"
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "language": "C",
+        "lines": 601964,
+        "percentage": "0.2",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 601964,
+            "percentage": "0.2"
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "language": "PowerShell",
+        "lines": 135495,
+        "percentage": "0.1",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 135495,
+            "percentage": "0.1"
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "language": "Shell",
+        "lines": 131002,
+        "percentage": "0.1",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 70457,
+            "percentage": "0.0"
+          },
+          {
+            "name": "DevEcosystem",
+            "lines": 50785,
+            "percentage": "16.1"
+          },
+          {
+            "name": "DevAcademicHub",
+            "lines": 9760,
+            "percentage": "32.9"
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "language": "PHP",
+        "lines": 70449,
+        "percentage": "0.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 70449,
+            "percentage": "0.0"
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "language": "TypeScript",
+        "lines": 29356,
+        "percentage": "0.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 29356,
+            "percentage": "0.0"
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "language": "SCSS",
+        "lines": 4934,
+        "percentage": "0.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 4934,
+            "percentage": "0.0"
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "language": "Hack",
+        "lines": 834,
+        "percentage": "0.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 834,
+            "percentage": "0.0"
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "language": "Dockerfile",
+        "lines": 498,
+        "percentage": "0.0",
+        "organizations": [
+          {
+            "name": "DevPersonalHub",
+            "lines": 498,
+            "percentage": "0.0"
+          }
+        ],
+        "rank": 12
+      }
+    ],
+    "primary_language": "Python",
+    "language_diversity": 12
+  },
+  "trends": {
+    "available": false,
+    "reason": "Insufficient historical data",
+    "snapshots_needed": 2,
+    "snapshots_available": 1
+  },
+  "metadata": {}
+}
